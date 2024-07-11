@@ -1,0 +1,8 @@
+streamlit>=1.29.0
+pandas~=2.0.0
+requests>=2.31.0
+pymorphy3~=2.0.1
+docxtpl~=0.16.7
+dadata~=21.10.1
+pytrovich~=0.0.4
+
